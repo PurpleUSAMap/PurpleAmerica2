@@ -24,6 +24,7 @@ double[] state = x;
 while(/*This is would go through the each state and draw everything, which is kinda hard because I don't have the data. The filler data does not help much*/){
   StdDraw.filledPolygon(x/*We would fill this with the actual data*/, y/*We would fill this with the actual data*/);
   variable++;  
+ 
 } 
   
  
