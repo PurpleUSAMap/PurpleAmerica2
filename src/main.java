@@ -21,11 +21,12 @@ double[] x = {2.0,3.0,4.0,5.0};
 double [] y = {2.0,3.0,4.0,5.0};
 //Try putting all of them into an array and then go through the array
 double[] state = x;
-while(/*This is would go through the each state and draw everything, which is kinda hard because I don't have the data. The filler data does not help much*/){
-  StdDraw.filledPolygon(x/*We would fill this with the actual data*/, y/*We would fill this with the actual data*/);
-  variable++;  
+//while(This is would go through the each state and draw everything, which is kinda hard because I don't have the data. The filler data does not help much){
+ // StdDraw.filledPolygon(x/*We would fill this with the actual data*/, y/*We would fill this with the actual data*/);
+ // variable++;  
  
-} 
+//}
+
   
  
     
