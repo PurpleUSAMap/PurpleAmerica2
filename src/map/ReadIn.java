@@ -11,6 +11,8 @@ package map;
 import java.io.*;
 
 public class ReadIn {
+public ReadIn(String filename){
+}
 
     public static void read() {
 
